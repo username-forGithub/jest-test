@@ -11,7 +11,7 @@ Performed the following steps on your terminal:
 
 ## Test Lists
 ### String Length Test
-- The [sting-lenth.js](string-length.js) file contains a `stringLength(string)`function that takes any string as an argument and returns its characters count.
+- The [sting-length.js](string-length.js) file contains a `stringLength(string)`function that takes any string as an argument and returns its characters count.
 - The `stringLength()` function checks if the string is at least 1 character long and not longer than 10 characters.
 - The [string-length.test.js](string-length.test.js) contains tests for `stringLength()` function and throw errors if the above conditions are not met.
 
